@@ -1,9 +1,9 @@
-# Welcome to my GitHub profile!
+# Welcome to my GitHub profile! 👋
 
 ### About me 👨‍💻
 Hey there! I'm cleanlock, a software developer from Germany, Frankfurt/Main.
 
-### Languages 🖥️
+### Languages 💻
 - Javascript
 - PHP
 - HTML
