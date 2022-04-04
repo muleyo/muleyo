@@ -1,16 +1,18 @@
-### Hi there 👋
+# Welcome to my GitHub profile!
 
-<!--
-**cleanlock/cleanlock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me 👨‍💻
+Hey there! I'm cleanlock, a software developer from Germany, Frankfurt/Main.
 
-Here are some ideas to get you started:
+### Languages 🖥️
+- Javascript
+- PHP
+- HTML
+- CSS
+- Bash
+- SourcePawn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current projects 🗃️
+- [Twitch Adblock](https://github.com/cleanlock/VideoAdBlockForTwitch)
+
+### Buy me a coffee ☕
+- [PayPal](https://paypal.me/muleyo96)
