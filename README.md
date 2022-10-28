@@ -16,4 +16,4 @@ Hey there! I'm cleanlock, a software developer from Germany, Frankfurt/Main.
 - [WoW AddOn - SUI](https://github.com/Syiana/SUI)
 
 ### Buy me a coffee ☕
-- [PayPal](https://paypal.me/muleyo96)
+- [Stripe](https://buy.stripe.com/dR63cc6Fgaak3GodQR)
