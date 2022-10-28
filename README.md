@@ -13,6 +13,7 @@ Hey there! I'm cleanlock, a software developer from Germany, Frankfurt/Main.
 
 ### Current projects 🗃️
 - [Twitch Adblock](https://github.com/cleanlock/VideoAdBlockForTwitch)
+- [WoW Add0n - SUI](https://github.com/Syiana/SUI)
 
 ### Buy me a coffee ☕
 - [PayPal](https://paypal.me/muleyo96)
