@@ -9,7 +9,6 @@ Hey there! I'm cleanlock, a software developer from Germany, Frankfurt/Main.
 - HTML
 - CSS
 - Bash
-- SourcePawn
 - Python
 - LUA
 
