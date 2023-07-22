@@ -20,3 +20,6 @@ Hey there! I'm cleanlock, a software developer from Germany, Frankfurt/Main.
 
 ### Buy me a coffee ☕
 - [Stripe](https://buy.stripe.com/dR63cc6Fgaak3GodQR)
+
+### Hire me 💼
+- [E-Mail](mailto:admin@muleyo.dev)
