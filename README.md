@@ -20,6 +20,7 @@ Hey there! I'm muleyo, a software developer from Germany, Frankfurt/Main.
 
 ### Buy me a coffee ☕
 - [Stripe](https://buy.stripe.com/dR63cc6Fgaak3GodQR)
+- [PayPal](https://paypal.me/leif96)
 
 ### Hire me 💼
 - [E-Mail](mailto:admin@muleyo.dev)
