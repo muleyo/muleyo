@@ -13,14 +13,14 @@ Hey there! I'm muleyo, a software developer from Germany, Frankfurt/Main.
 - LUA
 
 ### Current projects 🗃️
-- [Twitch Adblock](https://github.com/cleanlock/VideoAdBlockForTwitch)
-- [WoW AddOn - SUI](https://github.com/Syiana/SUI)
-- [WoW AddOn - PartyPets Fix](https://github.com/cleanlock/PartyPets-Fix)
-- [WoW AddOn - Party Raidframe Resize](https://github.com/cleanlock/PartyRaidFrameResize)
+- [Twitch Adblock](https://github.com/muleyo/VideoAdBlockForTwitch)
+- [WoW AddOn - mUI](https://github.com/muleyo/muleyoUI)
+- [WoW AddOn - PartyPets Fix](https://github.com/muleyo/PartyPets-Fix)
+- [WoW AddOn - Party Raidframe Resize](https://github.com/muleyo/PartyRaidFrameResize)
 
 ### Buy me a coffee ☕
 - [Stripe](https://buy.stripe.com/dR63cc6Fgaak3GodQR)
-- [PayPal](https://paypal.me/leif96)
+- [PayPal](https://streamelements.com/muleyo/tip)
 
 ### Hire me 💼
 - [E-Mail](mailto:admin@muleyo.dev)
